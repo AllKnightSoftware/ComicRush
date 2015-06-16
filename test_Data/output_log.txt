@@ -1,0 +1,35 @@
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4008 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Games\Test Unity Project\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Games\Test Unity Project\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Games\Test Unity Project\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Unity Games\Test Unity Project\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Unity Games\Test Unity Project\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Games\Test Unity Project\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+desktop: 1920x1200 59Hz; virtual: 3840x1200 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Unity Games\Test Unity Project\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity Games\Test Unity Project\test_Data\Managed\System.dll (this message is harmless)
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 383)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.278439 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 204.
+Total: 0.532850 ms (FindLiveObjects: 0.030910 ms CreateObjectMapping: 0.031761 ms MarkObjects: 0.376880 ms  DeleteObjects: 0.082522 ms)
+
